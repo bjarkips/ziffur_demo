@@ -22,6 +22,7 @@ Ziffur uses the following tools to improve productivity and enforce best practic
 
 * **Material UI**: Styled React components based on the Material Design System.
 * **ESLint**: Strict, consistent code style and quality using the AirBnB style guide.
+* **Lighthouse**: Performance, accessibility, and SEO auditing in CI using GitHub Actions.
 
 ## Local Dev
 
