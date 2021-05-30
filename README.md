@@ -2,7 +2,7 @@
 
 # Ziffur Demo
 
-This repository contains a snapshot of the source code for Ziffur.com, a blog by the couple @bjarkips and @11sarah about Computer Science, Cybersecurity, and Web Development.
+This repository contains a snapshot of the source code for [Ziffur.com](https://ziffur.com/), a blog by the couple @bjarkips and @11sarah about Computer Science, Cybersecurity, and Web Development.
 
 ## Overview
 
